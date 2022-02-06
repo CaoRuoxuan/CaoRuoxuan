@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaoRuoxuan， a graduate student in Fordham university
 - 👀 My major is business analytics
 - 🌱 I’m currently learning datastructure and algorithm with python.
-- 💞️ I’m looking for summer intern and job in the US。
+- 💞️ I’m looking for summer intern and job in the US
 - 📫 My email address is rcao23@fordham.edu
 
 <!---
